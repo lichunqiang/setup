@@ -14,8 +14,6 @@
 
 # zsh
 curl -s https://raw.githubusercontent.com/oscm/shell/master/shell/zsh.sh  | bash
-# timezone
-curl -s https://raw.githubusercontent.com/oscm/shell/master/os/timezone.sh | bash
 # depends
 curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/0-init.sh | bash
 # mysql
