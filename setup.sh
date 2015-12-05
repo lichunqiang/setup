@@ -53,3 +53,8 @@ curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/3-3-
 curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/3-4-yii2.sh | bash
 # redis
 curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/4-redis.sh | bash
+
+#nodejs
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash
+nvm install v4.2.3
+npm i bower -g --allow-root
