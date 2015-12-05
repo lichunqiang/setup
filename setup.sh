@@ -25,6 +25,6 @@ curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/3-ph
 curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/3-1-imagick.sh | bash
 curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/3-2-intl.sh | bash
 curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/3-3-composer.sh | bash
-curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/3-4-composer.sh | bash
+curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/3-4-yii2.sh | bash
 # redis
 curl -s https://raw.githubusercontent.com/mythteam/shell/master/nginx-mysql/4-redis.sh | bash
